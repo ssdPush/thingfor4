@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thingfor4/static/css/main.1dfa595e.css",
+    "main.js": "/thingfor4/static/js/main.a88620bf.js",
+    "static/js/453.a6a97343.chunk.js": "/thingfor4/static/js/453.a6a97343.chunk.js",
+    "index.html": "/thingfor4/index.html",
+    "main.1dfa595e.css.map": "/thingfor4/static/css/main.1dfa595e.css.map",
+    "main.a88620bf.js.map": "/thingfor4/static/js/main.a88620bf.js.map",
+    "453.a6a97343.chunk.js.map": "/thingfor4/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dfa595e.css",
+    "static/js/main.a88620bf.js"
+  ]
+}
